@@ -1,0 +1,6 @@
+name: EmergencyAlerts
+main: me.redstonefreak589.ea.Main
+author: redstonefreak589
+version: 1.0
+description: >
+             Emergency Alerts plugin for emergencies that players need to be aware of.
